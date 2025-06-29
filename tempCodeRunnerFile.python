@@ -1,0 +1,12 @@
+var= "Simran"
+print("Hi my name is " + var)
+print("Hi my name is", var)
+
+adj1= "yellow" 
+verb1 = "ran"
+noun1 = "park"
+noun2 = "monkey"
+verb2 = "singing"
+verb3 = "eating"
+noun3 = "apple"
+print("Yesterday I", verb1, "to the", noun1, "and I saw a giant", adj1, noun2, "the", noun2, "was", verb2, "very loudly and", verb3, "an", noun3)
